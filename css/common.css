@@ -48,3 +48,15 @@
     padding:0 15px;
     /*text-decoration:none;*/
 }
+
+.whoweare{
+    width: 500px;
+    height: 400px;
+}
+.whoweare img{
+    vertical-align:middle;
+}
+
+.product ul{
+    list-style:none;
+}
