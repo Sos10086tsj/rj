@@ -1,0 +1,50 @@
+.body_background{
+   /* background-color: grey;*/
+    margin: auto auto;
+    text-align: center;
+}
+
+.clear{
+    clear:both;
+}
+.header{
+    padding-top: 20px;
+}
+.header .logo{
+    width: 160px;
+    length:40px;
+}
+.header .logo_comp{
+    font-size: 36px;
+    vertical-align:middle;
+}
+.header span img{
+    vertical-align:middle;
+}
+
+.menu{
+    float: left;
+    width:100%;
+    overflow:hidden;
+    margin-top:20px;
+}
+.menu ul{
+    list-style:none;
+    float:left;
+    left:50%;
+    margin:0 auto;
+    position:relative;
+}
+.menu ul li{
+    float:left;
+    position:relative;
+    right:50%;
+    margin-left:20px;
+}
+
+.menu ul li a{
+    font-size: 24px;
+    display:block;
+    padding:0 15px;
+    /*text-decoration:none;*/
+}
